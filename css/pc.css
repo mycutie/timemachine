@@ -1,6 +1,6 @@
 .words_lw1 {
     position: absolute;
-    top: 115px;
+    top: 155px;
     left: 40px;
     right: 440px;
     height: 240px;
@@ -12,7 +12,7 @@
 }
 .words_lb1 {
     position: absolute;
-    top: 115px;
+    top: 155px;
     left: 40px;
     right: 440px;
     height: 240px;
@@ -24,7 +24,7 @@
 }
 .words_rw1 {
     position: absolute;
-    top: 115px;
+    top: 155px;
     left: 440px;
     right: 40px;
     height: 240px;
@@ -36,7 +36,7 @@
 }
 .words_lb2 {
     position: absolute;
-    top: 140px;
+    top: 180px;
     left: 40px;
     right: 440px;
     height: 240px;
@@ -48,7 +48,7 @@
 }
 .words_lw2 {
     position: absolute;
-    top: 140px;
+    top: 180px;
     left: 40px;
     right: 440px;
     height: 240px;
@@ -60,7 +60,7 @@
 }
 .words_rb2 {
     position: absolute;
-    top: 140px;
+    top: 180px;
     left: 440px;
     right: 40px;
     height: 240px;
@@ -72,7 +72,7 @@
 }
 .words_rw2 {
     position: absolute;
-    top: 140px;
+    top: 180px;
     left: 440px;
     right: 40px;
     height: 240px;
